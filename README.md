@@ -4,7 +4,7 @@ A **C++ implementation** of the **Simplex method** for solving Linear Programmin
 
 ---
 
-## **✨ Features**
+## ** Features**
 ✅ Implements the **Simplex Algorithm** for Linear Programming
 ✅ **Iterative approach** to ensure optimality
 ✅ **Detects unbounded solutions**
