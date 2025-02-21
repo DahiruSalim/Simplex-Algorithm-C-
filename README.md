@@ -37,7 +37,7 @@ g++ simplex_solver.cpp -o simplex_solver
 
 ---
 
-## **📌 How It Works**
+## **How It Works**
 1️⃣ **Initial Tableau Creation**: Represents the LP problem as a tableau.
 2️⃣ **Pivot Column Selection**: Identifies the most negative coefficient in the objective function row.
 3️⃣ **Pivot Row Selection**: Uses the minimum ratio test to determine the leaving variable.
