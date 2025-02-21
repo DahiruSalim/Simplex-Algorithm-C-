@@ -46,7 +46,7 @@ g++ simplex_solver.cpp -o simplex_solver
 
 ---
 
-## **📊 Example Output**
+## **Example Output**
 ```
 Initial Tableau:
      2.00     3.00     1.00     0.00     0.00   100.00 
