@@ -28,7 +28,7 @@ g++ simplex_solver.cpp -o simplex_solver
 
 ---
 
-## **📂 Project Structure**
+## **Project Structure**
 ```
 📁 Simplex Solver Project
 │── simplex_solver.cpp   # Main program implementing the Simplex method
