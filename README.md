@@ -67,7 +67,7 @@ Z = 166.67
 
 ## **Future Improvements**
 Allow **user input** for constraints and objective function  
-📊 **Enhance output format** with better visualization  
+**Enhance output format** with better visualization  
 🔄 Implement **Graphical Method** for 2-variable problems  
 
 ---
