@@ -65,7 +65,7 @@ Z = 166.67
 
 ---
 
-## **Future Improvements**
+## **Possible Future Improvements**
 Allow **user input** for constraints and objective function  
 **Enhance output format** with better visualization  
 Implement 
