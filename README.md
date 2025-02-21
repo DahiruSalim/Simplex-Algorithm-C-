@@ -1,4 +1,4 @@
-# 📌 Simplex Algorithm Solver
+# Simplex Algorithm Solver
 
 A **C++ implementation** of the **Simplex method** for solving Linear Programming problems. This program efficiently finds the optimal solution to a given set of linear constraints and an objective function using the **tableau method**.
 
