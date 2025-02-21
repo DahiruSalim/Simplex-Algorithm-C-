@@ -13,7 +13,7 @@ A **C++ implementation** of the **Simplex method** for solving Linear Programmin
 
 ---
 
-## **🚀 Installation & Usage**
+## **Installation & Usage**
 
 ### **1️⃣ Compile the Program**
 Ensure you have a C++ compiler installed (e.g., `g++` for GCC).
