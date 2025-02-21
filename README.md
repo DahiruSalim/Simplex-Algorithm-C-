@@ -1,4 +1,4 @@
-no# Simplex Algorithm Solver
+nono# Simplex Algorithm Solver
 
 A **C++ implementation** of the **Simplex method** for solving Linear Programming problems. This program efficiently finds the optimal solution to a given set of linear constraints and an objective function using the **tableau method**.
 
@@ -68,7 +68,8 @@ Z = 166.67
 ## **Future Improvements**
 Allow **user input** for constraints and objective function  
 **Enhance output format** with better visualization  
-🔄 Implement **Graphical Method** for 2-variable problems  
+Implement 
+**Graphical Method** for 2-variable problems  
 
 ---
 
