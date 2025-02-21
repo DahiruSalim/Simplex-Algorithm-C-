@@ -72,7 +72,7 @@ Z = 166.67
 
 ---
 
-## **👨‍💻 Contributors**
+## **Contributors**
 This project was developed as part of an assignment given by **Mr. Rupert (GitHub: [@Waboke](https://github.com/Waboke))**.
 
 ### **Team Members:**
