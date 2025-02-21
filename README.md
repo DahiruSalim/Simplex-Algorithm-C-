@@ -89,6 +89,6 @@ This project was developed as part of an assignment given by **Mr. Rupert (GitHu
 
 ---
 
-## **📜 License**
+## **License**
 This project is open-source and available under the **MIT License**.
 
